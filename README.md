@@ -1,4 +1,6 @@
-Welcome to my github!
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nikhil 👋 I'm a 🚀 Front-end developer 🚀 ">
+</p>
 
 I'm Nikhil, Fullstack developer from  India, currently living in  Toronto, Canada.
 
