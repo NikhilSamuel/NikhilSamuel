@@ -1,4 +1,10 @@
-### Hi there 👋
+Welcome to my github!
+
+I'm Nikhil, Fullstack developer from  India, currently living in  Toronto, Canada.
+
+Things I code with
+React Next.js Webpack Docker TypeScript Apollo Heroku redux GraphQL Sass Styled Components git NestJs npm html5 Nestjs TailwindCSS Prettier MongoDB Nodejs Firebase Vercel ![image](https://github.com/NikhilSamuel/NikhilSamuel/assets/57806664/52e4c69c-a131-4a22-b8c1-e695111c0a14)
+
 
 <!--
 **NikhilSamuel/NikhilSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
