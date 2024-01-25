@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nikhil 👋 I'm a 🚀 Front-end developer 🚀 ">
-</p>
+Hi there ![image](https://github.com/NikhilSamuel/NikhilSamuel/assets/57806664/b20d0eb3-5321-43cb-acf0-6a74a99d31eb)
+
 
 I'm Nikhil, Fullstack developer from  India, currently living in  Toronto, Canada.
 
